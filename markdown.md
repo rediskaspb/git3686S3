@@ -4,6 +4,9 @@
 
 # Синтаксис языка Markdown
 
+Справочник по Markdown от Microsoft:
+[Ссылка](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
 ## Заголовок – выделение заголовков
 
 Заголовки отмечаются диезом (#) в начале строки, от одного до шести. Например:
